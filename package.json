@@ -19,6 +19,7 @@
     "@angular/platform-browser": "~11.2.12",
     "@angular/platform-browser-dynamic": "~11.2.12",
     "@angular/router": "~11.2.12",
+    "@aws-amplify/ui-angular": "^1.0.7",
     "aws-amplify": "^3.3.27",
     "aws-amplify-angular": "^5.0.56",
     "rxjs": "~6.6.0",
